@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Quiz/static/css/main.7d606aa6.css",
+    "main.js": "/Quiz/static/js/main.f2c34a67.js",
+    "static/media/7SCW.gif": "/Quiz/static/media/7SCW.c95959bf03bdde736446.gif",
+    "static/media/Kids 03.jpg": "/Quiz/static/media/Kids 03.a61ad10b8afc2596c808.jpg",
+    "static/media/graduation_cap.jpg": "/Quiz/static/media/graduation_cap.80c3a4c353d2878b5574.jpg",
+    "static/media/3784896.jpg": "/Quiz/static/media/3784896.f4fe38db2b144b2bb3a0.jpg",
+    "static/media/bootstrap-icons.woff?": "/Quiz/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Quiz/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/australia-1296727__480.webp": "/Quiz/static/media/australia-1296727__480.ad43824d40cb16f39901.webp",
+    "static/media/america-1295554__340.webp": "/Quiz/static/media/america-1295554__340.a07293e626d4c6e42ea0.webp",
+    "static/media/spain-28530__340.webp": "/Quiz/static/media/spain-28530__340.74d7eaceae8b0c42a196.webp",
+    "static/media/iran-162321__340.webp": "/Quiz/static/media/iran-162321__340.c177e4af6d7ea7da5941.webp",
+    "static/media/hong-kong-162316__340.webp": "/Quiz/static/media/hong-kong-162316__340.18f8dde9ed04700fdb7e.webp",
+    "static/media/south-korea-162427__340.webp": "/Quiz/static/media/south-korea-162427__340.f7f8ce279be4bef0e5f0.webp",
+    "static/media/turkey-26820__340.webp": "/Quiz/static/media/turkey-26820__340.dc2aeb4166fd35fef373.webp",
+    "static/media/singapore-26793__340.webp": "/Quiz/static/media/singapore-26793__340.025061fad3ee8138e3f5.webp",
+    "static/media/japan-26803__340.webp": "/Quiz/static/media/japan-26803__340.d1cd50c1e0d159695d73.webp",
+    "index.html": "/Quiz/index.html",
+    "static/media/finland-162294__340.webp": "/Quiz/static/media/finland-162294__340.aee83c078bf58cd4713d.webp",
+    "static/media/hungary-162317__340.webp": "/Quiz/static/media/hungary-162317__340.3bddf86e5ae522aa59b1.webp",
+    "static/media/russia-162400__340.webp": "/Quiz/static/media/russia-162400__340.45ad44bd256f96842855.webp",
+    "main.7d606aa6.css.map": "/Quiz/static/css/main.7d606aa6.css.map",
+    "main.f2c34a67.js.map": "/Quiz/static/js/main.f2c34a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d606aa6.css",
+    "static/js/main.f2c34a67.js"
+  ]
+}
